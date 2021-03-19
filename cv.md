@@ -41,4 +41,4 @@ Khmelnitsky National University
 Study Business Administration and Management (Bachelor)
 Expected graduation2015 – 2019
 
-This is test commit number 4
+This is test commit number 5
